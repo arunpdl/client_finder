@@ -18,7 +18,7 @@ A command-line Ruby application that allows you to search for clients in a JSON 
 
 1. Clone the repository:
 
-   `git clone `
+   `git clone git@github.com:arunpdl/client_finder.git`
 
    `cd client_finder`
 
